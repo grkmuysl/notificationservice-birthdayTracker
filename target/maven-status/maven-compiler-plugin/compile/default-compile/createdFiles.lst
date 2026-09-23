@@ -1,1 +1,3 @@
+com\gorkemuysal\notificationservice\notification\UpcomingBirthdayEvent.class
 com\gorkemuysal\notificationservice\NotificationserviceApplication.class
+com\gorkemuysal\notificationservice\notification\BirthdayEventConsumer.class
